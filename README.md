@@ -1,8 +1,7 @@
-## d1annarod.github.io
+# d1annarod.github.io
 
 # Dianna's Portfolio
 
-## Description
 This portfolio showcases the first project I worked on where I created my first portfolio site that is live on the web. 
 
 ## Support
