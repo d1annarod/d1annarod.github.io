@@ -11,5 +11,5 @@ Youtube is a great resource to troubleshoot repositories if they can't seem to c
 This portfolio project will expand to include more advanced code using JavaScript to create an interactive site. 
 
 ## License
-This project open source. 
+This project is open source. 
   
